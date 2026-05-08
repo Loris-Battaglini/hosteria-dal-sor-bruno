@@ -913,6 +913,16 @@ a {
 }
 
 @media (max-width: 759px) {
+  .experience-visual {
+    max-width: 470px;
+    margin: 1.2rem auto 0;
+    justify-items: center;
+  }
+
+  .experience-visual .offset-card {
+    margin-inline: 0;
+  }
+
   .cellar-gallery {
     max-width: 470px;
     margin: 1.2rem auto 0;
